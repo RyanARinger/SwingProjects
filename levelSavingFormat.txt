@@ -1,1 +1,5 @@
-For the .csv files in the A-Mazing-versions, there is a regular grid of nibbles (half-a-byte) which correspond to a maze of corresponding size. The nibbles use the format of "<Up><Down><Left><Right>" to specify the directions each tile in the maze might be oriented. For example "0110" is: closed upwards, open left, open right, and closed down. The first row of the file specifies the name of the file and the length for the maze size. Since not automated level identification was eever implemented, these levels are hardcoded as level options in their respective versions.
+For the .csv files in the A-Mazing-versions, there is a regular grid of nibbles (half-a-byte) which correspond to a maze of corresponding size.
+The nibbles use the format of "<Up><Down><Left><Right>" to specify the directions each tile in the maze might be oriented. For example "0110"
+is: closed upwards, open left, open right, and closed down. The first row of the file specifies the name of the file and the length for the 
+maze size. Since not automated level identification was eever implemented, these levels are hardcoded as level options in their respective 
+versions.
