@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SE370_Team3_ProjectV1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SE370_Team3_ProjectV1_jar</output-path>
+    <root id="archive" name="SE370_Team3_ProjectV1.jar">
+      <element id="module-output" name="SE370_Team3_ProjectV1" />
+    </root>
+  </artifact>
+</component>
